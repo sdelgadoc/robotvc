@@ -1,9 +1,0 @@
-# Types of tweets
-Advice
-Opinion
-Link
-Facts
-Promotion
-Complaint
-Reply
-WTF?
